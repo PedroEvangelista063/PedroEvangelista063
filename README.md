@@ -24,12 +24,17 @@ Ola ! Eu sou Pedro Evangelista ✌️ Estudante de Analise e desenvolvimento de 
 </details> 
 
 
-### Para contato:
+## Para contato:
 [![gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pedroedu0@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedro-eduardo-evangelista-costa-ramos-6034a5285/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5562981504766)
+<br>
+<br>  
 
 ![PedroEvangelista063 GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEvangelista063&show_icons=true&theme=dracula)
+![PedroEvangelista063](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEvangelista063&hide_progress=true)
+<br>
+<br>
 
 ## Tecnologias que eu uso no meu dia a dia.
 
