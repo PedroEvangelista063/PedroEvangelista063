@@ -42,8 +42,6 @@ Ola ! Eu sou Pedro Evangelista ✌️ Estudante de Analise e desenvolvimento de 
 <img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
 <img  align="center" alt="html5" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
 <img  align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img  align="center" alt="html5" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
-<img  align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 <br>
 <br>
